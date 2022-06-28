@@ -4,5 +4,3 @@
  
  
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MasonPaddie)](https://github.com/anuraghazra/github-readme-stats)
- 
-![1f44e](https://user-images.githubusercontent.com/92054622/176063911-dde18503-8c0e-4737-b4ce-def98b4f0991.png)
